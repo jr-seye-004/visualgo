@@ -1,0 +1,12 @@
+VISUALGO
+
+De manière générale je comprend à peu près les visualisations.
+Ceux que je ne maitrise pas encore c'est:
+-Binary Heap
+-Fenwick Tree
+-Graph Traversal
+-Cycle Finding
+-Np complete Reduct.
+je saurais le maitriser au fur et à mesure de ma progression.
+
+
